@@ -1,2 +1,0 @@
-# Projetos-Data-Science
-
